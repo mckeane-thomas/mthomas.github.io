@@ -1,0 +1,23 @@
+/* 
+    Document   : resumeStyle
+    Created on : Oct 1, 2014, 11:30:48 AM
+    Author     : gisdev
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+body{
+    background-color: #E3EDD8;
+}
+#heading { 
+    float:right;
+    margin: 10px 500px 10px 10px;
+    padding-right: 10px;
+}
+
+th{
+    
+    margin-right:  -100px;
+    
+}
+
