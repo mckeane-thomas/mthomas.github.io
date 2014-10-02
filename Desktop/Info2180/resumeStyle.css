@@ -20,4 +20,15 @@ th{
     margin-right:  -100px;
     
 }
-
+h1{
+    text-align: center;
+    
+}
+img{
+    float:right;
+    margin-right: 700px;
+}
+address{text-align: center;}
+header{
+    text-align: center;
+}
